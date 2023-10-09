@@ -1,2 +1,2 @@
 # SortingAlgorithms
-Examples of different sorting algorithms coded in c++
+Quick sorting algorithm made in class for DS
